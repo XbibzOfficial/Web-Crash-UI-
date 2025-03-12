@@ -1,6 +1,6 @@
 # Web Crash UI ( ANDROID )
 
-# how does web crash ui work?🙄 : 
+# How does web crash UI Work?🙄 : 
 
 A Web Crash UI typically refers to the user interface (UI) elements that appear when a web application or browser encounters a critical error, causing it to crash or become unresponsive. Here's how it generally works:
 
