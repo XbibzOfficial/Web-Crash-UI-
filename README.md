@@ -72,4 +72,4 @@ The goal of a crash UI is to ensure the user understands what happened and has a
 
 
 
-![ppwa](https://github.com/user-attachments/assets/27374d22-0430-4bbd-bbcc-4291903e09ff)
+![Xbibz Official Developer](https://github.com/user-attachments/assets/27374d22-0430-4bbd-bbcc-4291903e09ff)
